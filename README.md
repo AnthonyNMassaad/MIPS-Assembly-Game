@@ -1,5 +1,5 @@
-CSC 312 (Computer Architeture):
 MIPS Project
+CSC 312 (Computer Architeture):
 Notre Dame University
 Completion date: 13 May 2023
 
