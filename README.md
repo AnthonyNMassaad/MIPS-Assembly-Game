@@ -27,7 +27,8 @@ Make sure to have the "Bitmap Display" connected to MARS with the configuration 
 - Press “D” to move right.
 - Press “A” to move left.
 
-<code style="color : red">**IMPORTANT WARNING**:</code> Don’t Hold/Long press A or D because MARS will crash.
+> ⚠️**IMPORTANT WARNING**:
+> Don’t Hold/Long press A or D because MARS will crash.
 - Don’t fall off the platforms or you’ll fall in the lava which will kill Shady.
 - The platforms get smaller with time.
 - Score will be displayed at the top left while in the game, and the end score will also be displayed at the end, along with the hit line of the song “Da3 Shady” with its music.
