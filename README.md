@@ -5,13 +5,12 @@
 
 ## Notes:
 This project was an assignment done by a group of 2.
-"DA3 SHADY" is in Arabic and it means "Shady is lost", the idea is if "Shady" falls off the platform then he gets "lost".
-It was implemented on "MARS".
+<br>"DA3 SHADY" is in Arabic and it means "Shady is lost", the idea is if "Shady" falls off the platform then he gets "lost".
+<br>It was implemented on "MARS".
 
 ### Story of the Game:
-Shady needs to find his family. He must jump through the platforms to reach them.
-Can you help him?
-The game is inspired by Fayrouz’s Hit song “Shady” (The refrain of the song is "Da3 Shady")
+Shady needs to find his family. He must jump through the platforms to reach them. Can you help him?
+<br>The game is inspired by Fayrouz’s Hit song “Shady” (The refrain of the song is "Da3 Shady")
 ["Da3 Shady" song](https://youtu.be/D7AjOZctfTA)
 
 ### Bitmap Configuration:
