@@ -5,7 +5,7 @@
 
 ## Notes:
 This project was an assignment done by a group of 2.
-<br>"DA3 SHADY" is in Arabic and it means "Shady is lost", the idea is if "Shady" falls off the platform then he gets "lost".
+<br>"DA3 SHADY" is in Arabic and it means "Shady is lost".
 <br>It was implemented on "MARS".
 
 ### Story of the Game:
@@ -13,15 +13,15 @@ Shady needs to find his family. He must jump through the platforms to reach them
 <br>The game is inspired by Fayrouz’s Hit song “Shady” (The refrain of the song is "Da3 Shady")
 ["Da3 Shady" song](https://youtu.be/D7AjOZctfTA)
 
+### Running The Game:
+Make sure to have the "Bitmap Display" connected to MARS with the configuration above along with the "Keyboard and Display MMIO simulator".
+
 ### Bitmap Configuration:
 - Unit width in pixels: 8
 - Unit height in pixels: 8
 - Display width in pixels: 256
 - Display height in pixels: 256
 - Base Address for Display: 0x10008000 ($gp)
-
-### Running The Game:
-Make sure to have the bitmap display connected to MARS with the configuration above along with the Keyboard and Display MMIO simulator.
 
 #### Playing The Game:
 - Press “D” to move right.
@@ -35,7 +35,7 @@ Make sure to have the bitmap display connected to MARS with the configuration ab
 ### How the Work was split:
 Difficulty updates with the related procedures were done by both of us.
 
-#### Anthony Lahoud (Anthonylhd2):
+#### Anthony Lahoud ([Anthonylhd2](https://github.com/Anthonylhd2)):
 - Game Score Display
 - Game Score Calculation
 - End score Display
@@ -43,7 +43,7 @@ Difficulty updates with the related procedures were done by both of us.
 - Background Color
 - End of the program (Death of player)
 
-#### Anthony Nasry Massaad(AnthonyNMassaad):
+#### Anthony Nasry Massaad([AnthonyNMassaad](https://github.com/AnthonyNMassaad)):
 - Sprite and its movement
 - Music
 - User Input
